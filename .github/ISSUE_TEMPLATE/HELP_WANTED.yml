@@ -1,6 +1,5 @@
 name: Help Wanted
 description: Request help with using sfcc-ci
-title: ""
 labels: ["help wanted"]
 body:
   - type: markdown
@@ -53,8 +52,8 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
+      label: Description
+      description: Please describe your issue
     validations:
       required: true
   - type: textarea
