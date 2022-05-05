@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please provide details of your issue
+        Please provide details of your issue. If possible provide as much information in the fields below regarding your environment and versions
   - type: input
     id: version
     attributes:
